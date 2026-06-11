@@ -1,0 +1,6 @@
+{
+  "name": "Spectral Channel Integrity",
+  "description": "Scientific portal for the SCI Universal Model (Closed System of Spectral Constants) by Mykhailo Kashkarov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
