@@ -1,5 +1,5 @@
 <!-- sci-auto-desc -->
-My Google AI Studio App
+SCI Portal — experimental web app for the SCI (Spectral Channel Integrity) project.
 
 [Live site](https://astra31415926.github.io/SCI-portal-0/)
 <!-- sci-auto-desc -->
